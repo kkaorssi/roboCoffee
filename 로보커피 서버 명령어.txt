@@ -1,11 +1,15 @@
 로보커피 서버 명령어
 
+# make project
 django-admin startproject mysite
-python manage.py startapp polls
-python manage.py migrate
-python manage.py makemigrations
-python manage.py makemigrations polls
-python manage.py sqlmigrate polls 0001
+python manage.py startapp kiosk
 
+# migration
+python manage.py makemigrations
+python manage.py makemigrations kiosk
+python manage.py sqlmigrate kiosk 0001
+python manage.py migrate
+
+# requirements
 pip freeze > requirements.txt
 pip install -r requirements.txt
