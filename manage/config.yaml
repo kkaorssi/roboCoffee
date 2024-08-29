@@ -1,0 +1,13 @@
+server:
+  ip: '192.168.0.4' # '192.168.58.4'
+  port: 8000
+  app: 'kiosk'
+
+robot:
+  ip: '192.168.58.2'
+  program:
+    pick_up: 'KETTLEPICK'
+    rinsing: 'RINCING'
+    discard_water: 'WATERING'
+    blooming: 'blooming'
+    drip: 'DRIP'

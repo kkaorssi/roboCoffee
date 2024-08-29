@@ -1,5 +1,3 @@
-## rollback version
-
 import subprocess
 from multiprocessing import Pipe, Process
 import yaml
