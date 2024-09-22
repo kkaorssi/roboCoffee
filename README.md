@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ```
 
 ## Contributors
-이휘성, 김경태
+이휘성, 김경태, 김광훈
 
 ## License
 이 프로젝트는 Apache License 2.0에 따라 배포됩니다.
