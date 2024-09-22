@@ -4,7 +4,7 @@
 백엔드는 Django와 Django REST Framework (DRF)를 사용하여 주문, 레시피, 북마크 데이터를 관리하고 API를 제공합니다.
 로봇은 HTTP 요청을 통해 주문 정보를 가져와 커피 드립 과정을 수행합니다.
 
-## Run Image
+### Run Image
 <img src="https://github.com/user-attachments/assets/4804022c-d3d9-4e69-890f-a7374abf02f0">
 
 ### Key Components::
